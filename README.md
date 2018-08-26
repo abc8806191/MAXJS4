@@ -27,9 +27,9 @@ C9 SERVER/ VPS :
 - `sudo pip3 install wikipedia`
 - `sudo pip3 install tweepy`
 - `sudo pip3 install youtube_dl`
-- `git clone https://github.com/arifistifik/ajs2`
-- `cd ajs2`
-- `python ajs.py`
+- `git clone https://github.com/MAX-SELFBOT/MAXJS2`
+- `cd MAXJS2`
+- `python max.py`
 
 INSTALL Di TERMUX :
 - `pkg update`
@@ -48,9 +48,9 @@ INSTALL Di TERMUX :
 - `pip3 install wikipedia`
 - `pip3 install youtube_dl`
 - `pip3 install tweepy`
-- `git clone https://github.com/arifistifik/ajs2`
-- `cd ajs2`
-- `python3 ajs.py`
+- `git clone https://github.com/MAX-SELFBOT/MAXJS2`
+- `cd MAXJS2`
+- `python3 max.py`
 
 Cara Menjalankan Bot Kembali :
 ------
